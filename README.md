@@ -1,1 +1,4 @@
 # course_work
+1. Файлы final_text_df_with_bigram_6.pkl и final_text_df_with_trigram_6.pkl содержат датафреймы с наборами эмбеддингов би- и триграммов соответственно.
+2. Файлы final_bigram_6_eps_1000.pkl и final_trigram_6_eps_1000.pkl содержат датареймы с вычисленными размерностями.
+3. Файл algorythm содержит реализацию алгоритма Грассбергера-Прокаччиа.
