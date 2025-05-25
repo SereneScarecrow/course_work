@@ -1,0 +1,157 @@
+{
+  "verbal_pron_su": {
+    "in": "1sg",
+    "mu": "1pl",
+    "ka": "2m",
+    "ki": "2f",
+    "ku": "2pl",
+    "ya": "3m",
+    "ta": "3f",
+    "su": "3pl",
+    "a": "inf"
+  },
+  "verbal_pron_sun": {
+    "na": "1sg",
+    "mun": "1pl",
+    "ka": "2m",
+    "kun": "2f",
+    "kin": "2pl",
+    "ya": "3m",
+    "ta": "3f",
+    "sun": "3pl",
+    "an": "inf"
+  },
+  "verbal_pron_suka": {
+    "na": "1sg",
+    "muka": "1pl",
+    "ka": "2m",
+    "kika": "2f",
+    "kuka": "2pl",
+    "ya": "3m",
+    "ta": "3f",
+    "suka": "3pl",
+    "aka": "inf"
+  },
+  "verbal_pron_su_kan": {
+    "na kan": "1sg",
+    "mu kan": "1pl",
+    "ka kan": "2m",
+    "ki kan": "2f",
+    "ku kan": "2pl",
+    "ya kan": "3m",
+    "ta kan": "3f",
+    "su kan": "3pl",
+    "a kan": "inf"
+  },
+  "verbal_pron_suna": {
+    "ina": "1sg",
+    "muna": "1pl",
+    "kana": "2m",
+    "kina": "2f",
+    "kuna": "2pl",
+    "yana": "3m",
+    "tana": "3f",
+    "suna": "3pl",
+    "ana": "inf"
+  },
+  "verbal_pron_suke": {
+    "nake": "1sg",
+    "muke": "1pl",
+    "kake": "2m",
+    "kike": "2f",
+    "kuke": "2pl",
+    "yake": "3m",
+    "take": "3f",
+    "suke": "3pl",
+    "ake": "inf"
+  },
+  "verbal_pron_za_su": {
+    "zan": "1sg",
+    "za mu": "1pl",
+    "za ka": "2m",
+    "za ki": "2f",
+    "za ku": "2pl",
+    "zai": "3m",
+    "za ta": "3f",
+    "za su": "3pl",
+    "za a": "inf"
+  },
+  "verbal_pron_sa": {
+    "na": "1sg",
+    "ma": "1pl",
+    "ka": "2m",
+    "kya": "2f",
+    "kwa": "2pl",
+    "ya": "3m",
+    "ta": "3f",
+    "sa": "3pl"
+  },
+  "neg_pron_sun_suka": {
+    "ban": "1sg",
+    "bai": "3m"
+  },
+  "personal_pron": {
+    "ni": "1sg",
+    "kai": "2m",
+    "ke": "2f",
+    "ku": "2pl",
+    "shi": "3m",
+    "ita": "3f",
+    "su": "3pl"
+  },
+  "posessive_pron_m": {
+    "nawa": "1sg",
+    "namu": "1pl",
+    "naka": "2m",
+    "naki": "2f",
+    "naku": "2pl",
+    "nasa": "3m",
+    "nata": "3f",
+    "nasu": "3pl"
+  },
+    "posessive_pron_f": {
+    "tawa": "1sg",
+    "tamu": "1pl",
+    "taka": "2m",
+    "taki": "2f",
+    "taku": "2pl",
+    "tasa": "3m",
+    "tata": "3f",
+    "tasu": "3pl"
+  },
+  "demonstrative_definite_pron": {
+    "wannan": "this_sg",
+    "waɗannan": "this_pl",
+    "wancan": "that_m",
+    "waccan": "that_f",
+    "waɗancan": "that_pl"
+  },
+  "interrogative_pron": {
+    "wane ne": "m",
+    "wace ce": "f",
+    "su wane ne": "pl",
+    "mene ne": "m",
+    "mece ce": "f"
+  },
+  "indefinite_pron": {
+    "wani": "m",
+    "wata": "f",
+    "waɗansu": "pl",
+    "wasu": "pl"
+  },
+  "general_pron": {
+    "kowane": "m",
+    "kowace": "f",
+    "kowaɗanne": "pl"
+    },
+  "reflexive_pron": {
+    "da kaina": "1sg",
+    "da kanmu": "1pl",
+    "da kanka": "2m",
+    "da kanki": "2f",
+    "da kanku": "2pl",
+    "da kansa": "3m",
+    "da kanta": "3f",
+    "da kansu": "3pl"
+  }
+}
